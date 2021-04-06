@@ -21,7 +21,7 @@ The project has a nav-bar with its icons (No javascript was used in the project)
 
 ## Live Demo
 
-[Live Demo Link](https://mariordgez.github.io/Responsive_Design_Habeeb_Mario/)
+[Live Demo Link](https://edungit.github.io/responsive_web-design_proj/)
 
 
 ## Authors
