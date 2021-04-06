@@ -362,7 +362,7 @@ a :hover {
 }
 
 .left {
-  margin-left: -55px;
+  margin-left: -90px;
 }
 
 .white {
@@ -520,7 +520,8 @@ a :hover {
 
 .text2-fork {
   grid-area: test2;
-  padding-left: 0;
+  padding-left: -70px;
+  margin-left: -50px;
 }
 
 .picture-fork {
@@ -634,6 +635,12 @@ a :hover {
     fill: white;
     vertical-align: initial;
   }
+  .tnw-logo {
+    height: 76px;
+    width: 100px;
+    position: relative;
+    margin-bottom: -50px;
+  }
 
   .accesability {
     margin-right: 20px;
@@ -679,6 +686,8 @@ a :hover {
     width: 100%;
     padding-right: 10px;
     height: 32px;
+    padding-left: 80px;
+    margin-top: -50px;
   }
 
   .whiteNav {
@@ -686,6 +695,7 @@ a :hover {
     width: 100%;
     padding-right: 10px;
     height: 48px;
+    padding-left: 80px;
   }
 
   .navbarDesktop ul {
@@ -874,6 +884,7 @@ a :hover {
   .invisible1 {
     color: #f42;
     margin-right: 20px;
+    display: block;
   }
 
   .tnw-svg {
@@ -1352,6 +1363,7 @@ a :hover {
     line-height: 18px;
     padding-top: 32.5px;
     padding-bottom: 32.5px;
+    display: block;
   }
 
   .footerBlack {
@@ -1430,6 +1442,7 @@ a :hover {
     width: 100%;
     padding-right: 10px;
     height: 32px;
+    padding-left: 0px;
   }
 
   .whiteNav {
@@ -1437,6 +1450,7 @@ a :hover {
     width: 100%;
     padding-right: 10px;
     height: 48px;
+    padding-left: 0px;
   }
 
   .navbarDesktop ul {
@@ -1569,6 +1583,10 @@ a :hover {
     display: block;
   }
 
+  .tnw-logo {
+    display: none;
+  }
+
   .right {
     text-align: right;
     margin-top: 30px;
@@ -1638,6 +1656,7 @@ a :hover {
   .invisible1 {
     color: #f42;
     margin-right: 20px;
+    display: block;
   }
 
   /* Latest News */
@@ -2101,6 +2120,7 @@ a :hover {
     line-height: 18px;
     padding-top: 32.5px;
     padding-bottom: 32.5px;
+    display: block;
   }
 
   .footerBlack {
