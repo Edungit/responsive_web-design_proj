@@ -26,12 +26,6 @@ The project has a nav-bar with its icons (No javascript was used in the project)
 
 ## Authors
 
-👤 **Mario Alberto Rodriguez Cota**
-
-- GitHub: [@mariordgez](https://github.com/mariordgez)
-- Twitter: [@MarioRo75396624](https://twitter.com/MarioRo75396624)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/mario-alberto-rodriguez-cota-a2860a205)
-
 👤 **Habeeb Edun**
 - GitHub: [@edungit](https://github.com/edungit)
 - Twitter: [Edunaty1](https://twitter.com/Edunaty1)
