@@ -219,11 +219,11 @@ ul li::before {
 }
 
 .small-d {
-display: none;
+  display: none;
 }
 
 .small-t {
-display: none;
+  display: none;
 }
 
 /* list section */
@@ -920,18 +920,18 @@ a :hover {
   }
 
   .small-d {
-   display: none;
+    display: none;
   }
 
   .small-t {
-  font-size: 10px;
-  font-weight: normal;
-  font-family: 'Montserrat', sans-serif;
-  margin-right: 0;
-  text-align: right;
-  margin-top: 10px;
-  display: block;
-  color: #f42;
+    font-size: 10px;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 0;
+    text-align: right;
+    margin-top: 10px;
+    display: block;
+    color: #f42;
   }
 
   /* Latest News */
