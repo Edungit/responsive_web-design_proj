@@ -219,7 +219,7 @@ ul li::before {
 }
 
 .small-d {
- display: none;
+display: none;
 }
 
 .small-t {
@@ -918,11 +918,11 @@ a :hover {
   .small-m {
     display: none;
   }
-  
+
   .small-d {
    display: none;
   }
-  
+
   .small-t {
   font-size: 10px;
   font-weight: normal;
@@ -1633,7 +1633,7 @@ a :hover {
   .small-m {
     display: none;
   }
-  
+
   .small-d {
     font-size: 10px;
     font-weight: normal;
@@ -1644,7 +1644,7 @@ a :hover {
     display: block;
     color: #f42;
   }
-  
+
   .small-t {
     display: none;
   }
