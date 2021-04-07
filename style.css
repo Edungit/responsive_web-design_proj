@@ -207,6 +207,25 @@ ul li::before {
   display: none;
 }
 
+.small-m {
+  font-size: 10px;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  margin-right: 0;
+  text-align: right;
+  margin-top: -20px;
+  display: block;
+  color: #f42;
+}
+
+.small-d {
+ display: none;
+}
+
+.small-t {
+display: none;
+}
+
 /* list section */
 ul {
   list-style: none;
@@ -894,6 +913,25 @@ a :hover {
 
   .right {
     display: none;
+  }
+
+  .small-m {
+    display: none;
+  }
+  
+  .small-d {
+   display: none;
+  }
+  
+  .small-t {
+  font-size: 10px;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  margin-right: 0;
+  text-align: right;
+  margin-top: 10px;
+  display: block;
+  color: #f42;
   }
 
   /* Latest News */
@@ -1590,6 +1628,25 @@ a :hover {
     text-align: right;
     margin-top: 30px;
     display: block;
+  }
+
+  .small-m {
+    display: none;
+  }
+  
+  .small-d {
+    font-size: 10px;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 0;
+    text-align: right;
+    margin-top: -20px;
+    display: block;
+    color: #f42;
+  }
+  
+  .small-t {
+    display: none;
   }
 
   .google {
