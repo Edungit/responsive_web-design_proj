@@ -929,7 +929,7 @@ a :hover {
     font-family: 'Montserrat', sans-serif;
     margin-right: 0;
     text-align: right;
-    margin-top: 10px;
+    padding-top: 1px;
     display: block;
     color: #f42;
   }
@@ -1640,9 +1640,14 @@ a :hover {
     font-family: 'Montserrat', sans-serif;
     margin-right: 0;
     text-align: right;
-    margin-top: -20px;
+    padding-top: 60px;
+    padding-bottom: -30px;
     display: block;
     color: #f42;
+  }
+
+  .down-n {
+    padding-top: 50px;
   }
 
   .small-t {
